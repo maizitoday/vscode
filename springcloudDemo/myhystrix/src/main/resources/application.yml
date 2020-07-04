@@ -1,0 +1,11 @@
+server:
+  port: 8003
+
+spring:
+  application:
+    name: provide-data #入驻eureka的服务名称
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka5001.com:5001/eureka

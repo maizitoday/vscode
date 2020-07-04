@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Insert title here</title>
+    <script type="text/javascript"></script>
+</head>
+
+<body>
+    <h th:text="${msg}" style="color:red"></h><br /><br />
+
+
+    <a href="login">登录</a><br /><br /><br />
+
+
+    <div shiro:hasPermission="user:addUser">
+        <a href="addUser">用户添加</a><br /><br /><br />
+    </div>
+
+    <div shiro:hasPermission="user:listUser">
+        <a href="listUser">用户列表</a>
+    </div>
+
+
+</body>
+
+</html>

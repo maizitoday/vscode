@@ -1,0 +1,35 @@
+spring:
+  profiles:
+    active:
+    - dev
+
+
+---
+server:
+  port: 8001
+
+spring:
+  profiles: dev
+  application:
+    name: projectA-provide-data-dev #入驻eureka的服务名称
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka5001.com:5001/eureka
+
+
+
+---
+server:
+  port: 8002
+
+spring:
+  profiles: test
+  application:
+    name: projectA-provide-data-test #入驻eureka的服务名称
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka5002.com:5002/eureka

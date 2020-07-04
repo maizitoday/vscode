@@ -1,0 +1,32 @@
+2019-05-25 21:23:46.011  INFO 1923 --- [restartedMain] com.example.logdemo.DemoApplication      : Starting DemoApplication on localhost with PID 1923 (started by maizi in /vscode/springboot系列学习/logdemo)
+2019-05-25 21:23:46.012  INFO 1923 --- [restartedMain] com.example.logdemo.DemoApplication      : No active profile set, falling back to default profiles: default
+2019-05-25 21:23:46.440  INFO 1923 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-05-25 21:23:46.443  INFO 1923 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-05-25 21:23:46.443  INFO 1923 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-25 21:23:46.457  INFO 1923 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-05-25 21:23:46.459  INFO 1923 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 445 ms
+2019-05-25 21:23:46.635  INFO 1923 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-25 21:23:46.798  INFO 1923 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-05-25 21:23:46.828  INFO 1923 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-25 21:23:46.830  INFO 1923 --- [restartedMain] com.example.logdemo.DemoApplication      : Started DemoApplication in 0.873 seconds (JVM running for 87.32)
+2019-05-25 21:23:46.834  INFO 1923 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-25 21:27:07.579  INFO 1923 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-25 21:27:07.580  INFO 1923 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-05-25 21:27:07.586  INFO 1923 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-05-25 21:27:07.590  INFO 1923 --- [http-nio-8080-exec-1] c.e.l.controller.StudentController       : 我是日志
+2019-05-25 21:27:08.565  INFO 1923 --- [http-nio-8080-exec-2] c.e.l.controller.StudentController       : 我是日志
+2019-05-25 21:27:09.520  INFO 1923 --- [http-nio-8080-exec-3] c.e.l.controller.StudentController       : 我是日志
+2019-05-25 21:31:41.274  INFO 1923 --- [Thread-12] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-25 21:31:41.609  INFO 1923 --- [restartedMain] com.example.logdemo.DemoApplication      : Starting DemoApplication on localhost with PID 1923 (started by maizi in /vscode/springboot系列学习/logdemo)
+2019-05-25 21:31:41.610  INFO 1923 --- [restartedMain] com.example.logdemo.DemoApplication      : No active profile set, falling back to default profiles: default
+2019-05-25 21:31:41.970  INFO 1923 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-05-25 21:31:41.972  INFO 1923 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-05-25 21:31:41.972  INFO 1923 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-25 21:31:41.982  INFO 1923 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-05-25 21:31:41.982  INFO 1923 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 364 ms
+2019-05-25 21:31:42.047  INFO 1923 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-25 21:31:42.105  INFO 1923 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-05-25 21:31:42.136  INFO 1923 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-25 21:31:42.137  INFO 1923 --- [restartedMain] com.example.logdemo.DemoApplication      : Started DemoApplication in 0.563 seconds (JVM running for 562.626)
+2019-05-25 21:31:42.139  INFO 1923 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-25 21:33:18.304  INFO 1923 --- [Thread-18] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

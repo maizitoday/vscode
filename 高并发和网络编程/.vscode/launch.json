@@ -1,0 +1,686 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClientBootstrap",
+            "request": "launch",
+            "mainClass": "com.maizi.rpc.customer.ClientBootstrap",
+            "projectName": "rpcdemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ServerBootstrap",
+            "request": "launch",
+            "mainClass": "com.maizi.rpc.provider.ServerBootstrap",
+            "projectName": "rpcdemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.maizi.rpc.App",
+            "projectName": "rpcdemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyClient",
+            "request": "launch",
+            "mainClass": "com.nettycode.stickyandunpackingsolutions.MyClient",
+            "projectName": "nettydemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyServer",
+            "request": "launch",
+            "mainClass": "com.nettycode.stickyandunpackingsolutions.MyServer",
+            "projectName": "nettydemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyClient",
+            "request": "launch",
+            "mainClass": "com.nettycode.stickingandunpacking.MyClient",
+            "projectName": "nettydemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyServer",
+            "request": "launch",
+            "mainClass": "com.nettycode.stickingandunpacking.MyServer",
+            "projectName": "nettydemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GPSDataProtoTest",
+            "request": "launch",
+            "mainClass": "com.nettycode.GPSDataProtoTest",
+            "projectName": "nettydemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyServer",
+            "request": "launch",
+            "mainClass": "com.nettycode.heartbeat.MyServer",
+            "projectName": "nettydemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GroupChatClient",
+            "request": "launch",
+            "mainClass": "com.nettycode.chartgroup.GroupChatClient",
+            "console": "externalTerminal",
+            "projectName": "nettydemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GroupChatServer",
+            "request": "launch",
+            "mainClass": "com.nettycode.chartgroup.GroupChatServer",
+            "console": "externalTerminal",
+            "projectName": "nettydemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NettyByteBuf01",
+            "request": "launch",
+            "mainClass": "com.nettycode.NettyByteBuf01",
+            "projectName": "nettydemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NettyClient",
+            "request": "launch",
+            "mainClass": "com.nettycode.NettyClient",
+            "projectName": "nettydemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NettyServer",
+            "request": "launch",
+            "mainClass": "com.nettycode.NettyServer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "com.nettycode.App"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GroupChatClient",
+            "request": "launch",
+            "mainClass": "com.nio.chargroup.GroupChatClient",
+            "console": "externalTerminal",
+            "projectName": "niodemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GroupChatServer",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "com.nio.chargroup.GroupChatServer",
+            "projectName": "niodemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileChannelDemo",
+            "request": "launch",
+            "mainClass": "com.nio.FileChannelDemo",
+            "projectName": "niodemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.maizi.App",
+            "projectName": "未考虑TCP粘包导致功能异常案例"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NIOClientSocket",
+            "request": "launch",
+            "mainClass": "maizi.nio.NIOClientSocket"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NIOServerSocket",
+            "request": "launch",
+            "mainClass": "maizi.nio.NIOServerSocket"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "maizi.nio.App"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Server",
+            "request": "launch",
+            "mainClass": "com.chatroom.server.Server",
+            "projectName": "chatroom"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NonBlockingTCPClient",
+            "request": "launch",
+            "mainClass": "com.nio.NonBlockingTCPClient",
+            "projectName": "niodemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TCPChannelServer",
+            "request": "launch",
+            "mainClass": "com.nio.TCPChannelServer",
+            "projectName": "niodemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.nio.App"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TCPClient",
+            "request": "launch",
+            "mainClass": "com.chatroom.client.TCPClient",
+            "projectName": "简易聊天室案例"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "com.chatroom.client.Client",
+            "console": "externalTerminal",
+            "projectName": "简易聊天室案例"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Server",
+            "request": "launch",
+            "mainClass": "com.chatroom.server.Server",
+            "console": "externalTerminal",
+            "projectName": "简易聊天室案例"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.chatroom.App"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UDPSearcher",
+            "request": "launch",
+            "mainClass": "com.tcp.udp.client.UDPSearcher",
+            "projectName": "udptcp"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Server",
+            "request": "launch",
+            "mainClass": "com.tcp.udp.server.Server",
+            "projectName": "udptcp"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "com.tcp.udp.client.Client",
+            "projectName": "udptcp"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.tcp.udp.App"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.udp.tcp.App"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MulticastUDPReceiver",
+            "request": "launch",
+            "mainClass": "networkdemo.MulticastUDPReceiver",
+            "projectName": "网络编程",
+            "vmArgs": "-Djava.net.preferIPv4Stack=true"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MulticastUDPSender",
+            "request": "launch",
+            "mainClass": "networkdemo.MulticastUDPSender",
+            "projectName": "网络编程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MulticastUDPClient",
+            "request": "launch",
+            "mainClass": "networkdemo.MulticastUDPClient",
+            "projectName": "网络编程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UDPReceiver",
+            "request": "launch",
+            "mainClass": "networkdemo.UDPReceiver",
+            "projectName": "网络编程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UDPSender",
+            "request": "launch",
+            "mainClass": "networkdemo.UDPSender",
+            "projectName": "网络编程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TCPClient",
+            "request": "launch",
+            "mainClass": "networkdemo.TCPClient",
+            "projectName": "网络编程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TCPService",
+            "request": "launch",
+            "mainClass": "networkdemo.TCPService",
+            "projectName": "网络编程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "networkdemo.App"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "network.App"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "网络编程.App"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MathTest",
+            "request": "launch",
+            "mainClass": "app.math.MathTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimeTest",
+            "request": "launch",
+            "mainClass": "app.time.TimeTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test01ConcurrentLinkedQueue",
+            "request": "launch",
+            "mainClass": "app.collection.Test01ConcurrentLinkedQueue",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CollectionTest",
+            "request": "launch",
+            "mainClass": "app.collection.CollectionTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BoundedQueue",
+            "request": "launch",
+            "mainClass": "app.lock.BoundedQueue",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StampedLockTest",
+            "request": "launch",
+            "mainClass": "app.lock.StampedLockTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReentrantReadWriteLockTest",
+            "request": "launch",
+            "mainClass": "app.lock.ReentrantReadWriteLockTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReentrantLockTest",
+            "request": "launch",
+            "mainClass": "app.lock.ReentrantLockTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FutureTaskTest",
+            "request": "launch",
+            "mainClass": "app.threadpool.FutureTaskTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - executorsTest",
+            "request": "launch",
+            "mainClass": "app.threadpool.executorsTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PharseDemo",
+            "request": "launch",
+            "mainClass": "app.concurrent.PharseDemo",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RecursiveTaskDemo",
+            "request": "launch",
+            "mainClass": "app.concurrent.RecursiveTaskDemo",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RaskDemo",
+            "request": "launch",
+            "mainClass": "app.concurrent.RaskDemo",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ForkJoinTest",
+            "request": "launch",
+            "mainClass": "app.concurrent.ForkJoinTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SemaphoreTest",
+            "request": "launch",
+            "mainClass": "app.concurrent.SemaphoreTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExchangerTest",
+            "request": "launch",
+            "mainClass": "app.concurrent.ExchangerTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CyclicBarrierTest",
+            "request": "launch",
+            "mainClass": "app.concurrent.CyclicBarrierTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - countDownLatchTest",
+            "request": "launch",
+            "mainClass": "app.concurrent.countDownLatchTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AtomicRefTest",
+            "request": "launch",
+            "mainClass": "app.atomicity.AtomicRefTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AtomicIntegerArrayTest",
+            "request": "launch",
+            "mainClass": "app.atomicity.AtomicIntegerArrayTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AtomicBooleanTest",
+            "request": "launch",
+            "mainClass": "app.atomicity.AtomicBooleanTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AtomicLongTest",
+            "request": "launch",
+            "mainClass": "app.atomicity.AtomicLongTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AtomicIntegerTest",
+            "request": "launch",
+            "mainClass": "app.atomicity.AtomicIntegerTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "app.designmode.workerthread.Main",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "app.designmode.twophasetermination.Main",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadPerMessageTest",
+            "request": "launch",
+            "mainClass": "app.designmode.threadpermessage.ThreadPerMessageTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Latch",
+            "request": "launch",
+            "mainClass": "app.designmode.countdown.Latch",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "app.designmode.balking.Main",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadLocalTest2",
+            "request": "launch",
+            "mainClass": "app.designmode.threadlocal.ThreadLocalTest2",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadLocalTest",
+            "request": "launch",
+            "mainClass": "app.designmode.threadlocal.ThreadLocalTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "app.designmode.guardedsuspension.Main",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "app.designmode.future.Main",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FuturceTest",
+            "request": "launch",
+            "mainClass": "app.designmode.future.FuturceTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Person",
+            "request": "launch",
+            "mainClass": "app.designmode.immutable.Person",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - finallyDemo",
+            "request": "launch",
+            "mainClass": "app.designmode.readwritermodel.finallyDemo",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReadWritLockClient",
+            "request": "launch",
+            "mainClass": "app.designmode.readwritermodel.ReadWritLockClient",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReadWorker",
+            "request": "launch",
+            "mainClass": "app.designmode.readwritermodel.ReadWorker",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Gate",
+            "request": "launch",
+            "mainClass": "app.designmode.singlemodel.Gate",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyUser",
+            "request": "launch",
+            "mainClass": "app.designmode.singlemodel.MyUser",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - User",
+            "request": "launch",
+            "mainClass": "app.designmode.singlemodel.User",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DealLock",
+            "request": "launch",
+            "mainClass": "app.deallock.DealLock",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadStatusDemo",
+            "request": "launch",
+            "mainClass": "app.poolthread.ThreadStatusDemo",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadPoolTest",
+            "request": "launch",
+            "mainClass": "app.poolthread.ThreadPoolTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaticTest",
+            "request": "launch",
+            "mainClass": "app.StaticTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EnumSingleton",
+            "request": "launch",
+            "mainClass": "app.singletondemo.EnumSingleton",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadGroupDemo",
+            "request": "launch",
+            "mainClass": "app.threadgroup.ThreadGroupDemo",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadException",
+            "request": "launch",
+            "mainClass": "app.threadexception.ThreadException",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TicketBox",
+            "request": "launch",
+            "mainClass": "app.producerconsumer.TicketBox",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WaitTest",
+            "request": "launch",
+            "mainClass": "app.waitdemo.WaitTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LockTest",
+            "request": "launch",
+            "mainClass": "app.lockdemo.LockTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - synchronizedTest",
+            "request": "launch",
+            "mainClass": "app.synchronizedTest",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SingletionObject4",
+            "request": "launch",
+            "mainClass": "app.SingletionObject4",
+            "projectName": "创建并启动线程"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "创建并启动线程"
+        }
+    ]
+}

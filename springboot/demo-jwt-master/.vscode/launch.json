@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EmployeeController",
+            "request": "launch",
+            "mainClass": "com.example.demo.controller.EmployeeController",
+            "projectName": "demo"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyProvide-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyTools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Myprovide-8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/My﻿Consumer-9001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka5001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka5001/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka5002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka5002/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka5003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka5003/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myhystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myhystrixdashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon6001" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

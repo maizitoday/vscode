@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyConsumer-feign-9002/MyConsumer-feign-9002.iml" filepath="$PROJECT_DIR$/MyConsumer-feign-9002/MyConsumer-feign-9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Myprovide-8002/Myprovide-8002.iml" filepath="$PROJECT_DIR$/Myprovide-8002/Myprovide-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My﻿Consumer-9001/consumer-9001.iml" filepath="$PROJECT_DIR$/My﻿Consumer-9001/consumer-9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka5001/eureka5001.iml" filepath="$PROJECT_DIR$/eureka5001/eureka5001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka5002/eureka5002.iml" filepath="$PROJECT_DIR$/eureka5002/eureka5002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka5003/eureka5003.iml" filepath="$PROJECT_DIR$/eureka5003/eureka5003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka6001/eureka6001.iml" filepath="$PROJECT_DIR$/eureka6001/eureka6001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycloud.iml" filepath="$PROJECT_DIR$/mycloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhystrix/myhystrix.iml" filepath="$PROJECT_DIR$/myhystrix/myhystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhystrixdashboard/myhystrixdashboard.iml" filepath="$PROJECT_DIR$/myhystrixdashboard/myhystrixdashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTools/mytools.iml" filepath="$PROJECT_DIR$/MyTools/mytools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProvide-8001/provide-8001.iml" filepath="$PROJECT_DIR$/MyProvide-8001/provide-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon6001/ribbon6001.iml" filepath="$PROJECT_DIR$/ribbon6001/ribbon6001.iml" />
+    </modules>
+  </component>
+</project>

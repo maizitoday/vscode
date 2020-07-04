@@ -1,0 +1,40 @@
+spring:
+  profiles:
+    active:
+    - dev
+
+
+---
+server:
+  port: 5001
+
+spring:
+  profiles: dev
+  application:
+    name: projectA-eureka-dev
+
+
+eureka:
+  instance:
+    hostname: eureka5001.com #eureka服务端的实例名称, 我这边做了host映射
+  client:  #声明自己是服务端
+    register-with-eureka: false  #false表示不向注册中心注册自己。
+    fetch-registry: false
+
+ 
+---
+server:
+  port: 5002
+
+spring:
+  profiles: test
+  application:
+    name: projectA-eureka-test
+
+
+eureka:
+  instance:
+    hostname: eureka5002.com #eureka服务端的实例名称, 我这边做了host映射
+  client:  #声明自己是服务端
+    register-with-eureka: false  #false表示不向注册中心注册自己。
+    fetch-registry: false

@@ -1,0 +1,86 @@
+2017-12-08 09:38:56,154 [main] WARN  [org.dozer.config.GlobalSettings] - Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.
+2017-12-08 09:38:58,177 [main] DEBUG [com.mec.rmc.weixin.controller.WechatReceiveController] - <?xml version="1.0" encoding="UTF-8"?>
+<xml>
+   <CreateTime>0</CreateTime>
+</xml>
+
+2017-12-08 09:38:58,286 [main] DEBUG [com.mec.rmc.weixin.controller.WechatReceiveController] - false$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2017-12-08 09:39:00,383 [main] DEBUG [com.mec.rmc.utils.redis.MecRedisMessageListenerContainer] - init ............... RedisMessageListenerContainer.
+2017-12-08 09:39:06,991 [main] INFO  [com.mec.rmc.service.medical.application.impl.RmcServerConsultationService] - 协诊拉人公共层请求正常
+2017-12-08 09:39:06,995 [main] INFO  [com.mec.rmc.controller.rmc.ApplicationServerConsultationTest] - 数据-->{"ret":0,"msg":"ok","datas":[{"msg":null,"staffsId":"a3a63f2cbf8545069f7daced445b3ef2","doctorId":"222229","doctorHid":"130","msgCode":"0"},{"msg":null,"staffsId":"54d91408d15c45829df98c01a5f82d02","doctorId":"superman","doctorHid":"3","msgCode":"0"},{"msg":null,"staffsId":"10d36b623224478b8d1cb301a4fb042c","doctorId":"doc001","doctorHid":"130","msgCode":"0"}]}
+2017-12-08 09:39:07,048 [Thread-5] DEBUG [com.mec.rmc.utils.redis.MecRedisMessageListenerContainer] - Stopped RedisMessageListenerContainer
+2017-12-08 09:41:23,972 [main] WARN  [org.dozer.config.GlobalSettings] - Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.
+2017-12-08 09:41:29,877 [main] DEBUG [com.mec.rmc.weixin.controller.WechatReceiveController] - <?xml version="1.0" encoding="UTF-8"?>
+<xml>
+   <CreateTime>0</CreateTime>
+</xml>
+
+2017-12-08 09:41:30,537 [main] DEBUG [com.mec.rmc.weixin.controller.WechatReceiveController] - false$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2017-12-08 09:41:36,046 [main] DEBUG [com.mec.rmc.utils.redis.MecRedisMessageListenerContainer] - init ............... RedisMessageListenerContainer.
+2017-12-08 09:42:55,148 [main] INFO  [com.mec.rmc.service.medical.application.impl.RmcServerConsultationService] - 协诊拉人公共层请求正常
+2017-12-08 09:42:55,150 [main] INFO  [com.mec.rmc.controller.rmc.ApplicationServerConsultationTest] - 数据-->{"ret":0,"msg":"ok","datas":[{"msg":null,"staffsId":"f74935feea344d5b82a4baefd2285952","doctorId":"222229","doctorHid":"130","msgCode":"0"},{"msg":null,"staffsId":"c27584b39a24448fa32994cadc1ef66d","doctorId":"superman","doctorHid":"3","msgCode":"0"},{"msg":null,"staffsId":"cbfe16a552624f16bbafb2def6f62195","doctorId":"doc001","doctorHid":"130","msgCode":"0"}]}
+2017-12-08 09:42:55,167 [Thread-5] DEBUG [com.mec.rmc.utils.redis.MecRedisMessageListenerContainer] - Stopped RedisMessageListenerContainer
+2017-12-08 09:46:05,221 [main] WARN  [org.dozer.config.GlobalSettings] - Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.
+2017-12-08 09:46:07,407 [main] DEBUG [com.mec.rmc.weixin.controller.WechatReceiveController] - <?xml version="1.0" encoding="UTF-8"?>
+<xml>
+   <CreateTime>0</CreateTime>
+</xml>
+
+2017-12-08 09:46:07,507 [main] DEBUG [com.mec.rmc.weixin.controller.WechatReceiveController] - false$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2017-12-08 09:46:10,052 [main] DEBUG [com.mec.rmc.utils.redis.MecRedisMessageListenerContainer] - init ............... RedisMessageListenerContainer.
+2017-12-08 09:46:16,632 [main] INFO  [com.mec.rmc.controller.rmc.ApplicationServerConsultationTest] - 数据-->{"ret":1,"msg":"ok"}
+2017-12-08 09:46:16,659 [Thread-5] DEBUG [com.mec.rmc.utils.redis.MecRedisMessageListenerContainer] - Stopped RedisMessageListenerContainer
+2017-12-08 09:47:28,344 [main] WARN  [org.dozer.config.GlobalSettings] - Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.
+2017-12-08 09:47:30,439 [main] DEBUG [com.mec.rmc.weixin.controller.WechatReceiveController] - <?xml version="1.0" encoding="UTF-8"?>
+<xml>
+   <CreateTime>0</CreateTime>
+</xml>
+
+2017-12-08 09:47:30,579 [main] DEBUG [com.mec.rmc.weixin.controller.WechatReceiveController] - false$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2017-12-08 09:47:33,422 [main] DEBUG [com.mec.rmc.utils.redis.MecRedisMessageListenerContainer] - init ............... RedisMessageListenerContainer.
+2017-12-08 09:47:53,020 [main] INFO  [com.mec.rmc.service.medical.application.impl.RmcServerConsultationService] - 协诊拉人公共层请求正常
+2017-12-08 09:47:53,023 [main] INFO  [com.mec.rmc.controller.rmc.ApplicationServerConsultationTest] - 数据-->{"ret":0,"msg":"ok","datas":[{"msg":null,"staffsId":"45242985a38f478d9c6f358782b6f7e1","doctorId":"222229","doctorHid":"130","msgCode":"0"},{"msg":null,"staffsId":"933eab5d170a441b938a05090d251431","doctorId":"superman","doctorHid":"3","msgCode":"0"},{"msg":null,"staffsId":"4a42ec9dd1c949b5a43e969681973190","doctorId":"doc001","doctorHid":"130","msgCode":"0"}]}
+2017-12-08 09:47:53,071 [Thread-5] DEBUG [com.mec.rmc.utils.redis.MecRedisMessageListenerContainer] - Stopped RedisMessageListenerContainer
+2017-12-08 13:59:16,152 [main] WARN  [org.dozer.config.GlobalSettings] - Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.
+2017-12-08 13:59:19,211 [main] DEBUG [com.mec.rmc.weixin.controller.WechatReceiveController] - <?xml version="1.0" encoding="UTF-8"?>
+<xml>
+   <CreateTime>0</CreateTime>
+</xml>
+
+2017-12-08 13:59:19,405 [main] DEBUG [com.mec.rmc.weixin.controller.WechatReceiveController] - false$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2017-12-08 13:59:23,596 [main] DEBUG [com.mec.rmc.utils.redis.MecRedisMessageListenerContainer] - init ............... RedisMessageListenerContainer.
+2017-12-08 14:00:17,125 [main] INFO  [com.mec.rmc.service.medical.application.impl.RmcServerConsultationService] - 协诊拉人公共层请求正常
+2017-12-08 14:00:17,137 [main] INFO  [com.mec.rmc.controller.rmc.ApplicationServerConsultationTest] - 数据-->{"ret":0,"msg":"ok","datas":[{"msg":null,"doctorName":null,"staffsId":"0c23645dace744b3b2ba0aa3690ea3bf","doctorId":"222229","doctorHid":"130","msgCode":"0"},{"msg":null,"doctorName":null,"staffsId":"a8e4e0acd0a1463e8f765102081420e4","doctorId":"superman","doctorHid":"3","msgCode":"0"},{"msg":null,"doctorName":null,"staffsId":"56be088370d148c3ab35c6f626ccc3ca","doctorId":"doc001","doctorHid":"130","msgCode":"0"}]}
+2017-12-08 14:00:17,155 [Thread-5] DEBUG [com.mec.rmc.utils.redis.MecRedisMessageListenerContainer] - Stopped RedisMessageListenerContainer
+2017-12-08 14:01:32,060 [main] WARN  [org.dozer.config.GlobalSettings] - Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.
+2017-12-08 14:01:38,584 [main] DEBUG [com.mec.rmc.weixin.controller.WechatReceiveController] - <?xml version="1.0" encoding="UTF-8"?>
+<xml>
+   <CreateTime>0</CreateTime>
+</xml>
+
+2017-12-08 14:01:39,273 [main] DEBUG [com.mec.rmc.weixin.controller.WechatReceiveController] - false$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2017-12-08 14:01:45,969 [main] DEBUG [com.mec.rmc.utils.redis.MecRedisMessageListenerContainer] - init ............... RedisMessageListenerContainer.
+2017-12-08 14:02:28,138 [main] INFO  [com.mec.rmc.service.medical.application.impl.RmcServerConsultationService] - 协诊拉人公共层请求正常
+2017-12-08 14:02:28,169 [main] INFO  [com.mec.rmc.controller.rmc.ApplicationServerConsultationTest] - 数据-->{"ret":0,"msg":"ok","datas":[{"msg":null,"doctorName":null,"staffsId":"b0ead1858bbd4cb398d837a71a2a2236","doctorId":"222229","doctorHid":"130","msgCode":"0"},{"msg":null,"doctorName":null,"staffsId":"3a8cfcbd57ac491a864762fcdba3ffe5","doctorId":"superman","doctorHid":"3","msgCode":"0"},{"msg":null,"doctorName":null,"staffsId":"d3d1531475b845cda8c454a9ec490d79","doctorId":"doc001","doctorHid":"130","msgCode":"0"}]}
+2017-12-08 14:02:28,204 [Thread-5] DEBUG [com.mec.rmc.utils.redis.MecRedisMessageListenerContainer] - Stopped RedisMessageListenerContainer
+2017-12-08 14:03:44,112 [main] WARN  [org.dozer.config.GlobalSettings] - Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.
+2017-12-08 14:03:50,737 [main] DEBUG [com.mec.rmc.weixin.controller.WechatReceiveController] - <?xml version="1.0" encoding="UTF-8"?>
+<xml>
+   <CreateTime>0</CreateTime>
+</xml>
+
+2017-12-08 14:03:51,051 [main] DEBUG [com.mec.rmc.weixin.controller.WechatReceiveController] - false$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2017-12-08 14:03:59,205 [main] DEBUG [com.mec.rmc.utils.redis.MecRedisMessageListenerContainer] - init ............... RedisMessageListenerContainer.
+2017-12-08 14:04:31,270 [main] INFO  [com.mec.rmc.service.medical.application.impl.RmcServerConsultationService] - 协诊拉人公共层请求正常
+2017-12-08 14:04:31,278 [main] INFO  [com.mec.rmc.controller.rmc.ApplicationServerConsultationTest] - 数据-->{"ret":0,"msg":"ok","datas":[{"msg":null,"doctorName":null,"staffsId":"07c37a65aa19427a863591e877a194c6","doctorId":"222229","doctorHid":"130","msgCode":"0"},{"msg":null,"doctorName":null,"staffsId":"62adf3cd743245779a75a817f75f34dd","doctorId":"superman","doctorHid":"3","msgCode":"0"},{"msg":null,"doctorName":null,"staffsId":"99f585daf14747fba79ab7452a015106","doctorId":"doc001","doctorHid":"130","msgCode":"0"}]}
+2017-12-08 14:04:31,324 [Thread-5] DEBUG [com.mec.rmc.utils.redis.MecRedisMessageListenerContainer] - Stopped RedisMessageListenerContainer
+2017-12-08 14:05:19,975 [main] WARN  [org.dozer.config.GlobalSettings] - Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.
+2017-12-08 14:05:23,888 [main] DEBUG [com.mec.rmc.weixin.controller.WechatReceiveController] - <?xml version="1.0" encoding="UTF-8"?>
+<xml>
+   <CreateTime>0</CreateTime>
+</xml>
+
+2017-12-08 14:05:24,093 [main] DEBUG [com.mec.rmc.weixin.controller.WechatReceiveController] - false$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2017-12-08 14:05:28,387 [main] DEBUG [com.mec.rmc.utils.redis.MecRedisMessageListenerContainer] - init ............... RedisMessageListenerContainer.
+2017-12-08 14:05:54,245 [main] INFO  [com.mec.rmc.controller.rmc.ApplicationServerConsultationTest] - 数据-->{"ret":0,"msg":"ok","datas":[{"msg":"医生已在被拉列表中","doctorName":null,"staffsId":"07c37a65aa19427a863591e877a194c6","doctorId":"222229","doctorHid":"130","msgCode":"802"},{"msg":"医生已在被拉列表中","doctorName":null,"staffsId":"62adf3cd743245779a75a817f75f34dd","doctorId":"superman","doctorHid":"3","msgCode":"802"},{"msg":"医生已在被拉列表中","doctorName":null,"staffsId":"99f585daf14747fba79ab7452a015106","doctorId":"doc001","doctorHid":"130","msgCode":"802"}]}
+2017-12-08 14:05:54,354 [Thread-5] DEBUG [com.mec.rmc.utils.redis.MecRedisMessageListenerContainer] - Stopped RedisMessageListenerContainer

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.moredatademo.mysqlmapper.SchoolXmlMapper">
+    
+    
+    <select id="getSchoolById" resultType="com.example.moredatademo.mysqlmapper.School">
+         select * from school where id=#{id}
+    </select>
+
+
+   <update id="updateById" parameterType="Map">
+       update school SET  name = #{name} , address = #{address} WHERE id = #{id}
+   </update>
+
+</mapper>

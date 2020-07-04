@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "redisdemo",
+			"path": "redisdemo"
+		},
+		{
+			"name": "redisapi",
+			"path": "/Users/maizi/Desktop/redisapi"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}

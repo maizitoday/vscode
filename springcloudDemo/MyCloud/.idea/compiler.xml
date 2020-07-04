@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumer-9001" />
+        <module name="eureka5001" />
+        <module name="eureka5002" />
+        <module name="eureka5003" />
+        <module name="eureka6001" />
+        <module name="myhystrix" />
+        <module name="myhystrixdashboard" />
+        <module name="Myprovide-8002" />
+        <module name="mytools" />
+        <module name="provide-8001" />
+        <module name="ribbon6001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumer-9001" target="1.5" />
+      <module name="eureka5001" target="1.8" />
+      <module name="eureka5002" target="1.8" />
+      <module name="eureka5003" target="1.8" />
+      <module name="eureka6001" target="1.8" />
+      <module name="eureka7001" target="1.8" />
+      <module name="maven-archiver (1)" target="1.5" />
+      <module name="maven-archiver (2)" target="1.5" />
+      <module name="maven-archiver (3)" target="1.5" />
+      <module name="mycloud" target="1.5" />
+      <module name="myhystrix" target="1.5" />
+      <module name="myhystrixdashboard" target="1.8" />
+      <module name="Myprovide-8002" target="1.5" />
+      <module name="mytools" target="1.5" />
+      <module name="provide-8001" target="1.5" />
+      <module name="provide-8002" target="1.5" />
+      <module name="ribbon6001" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

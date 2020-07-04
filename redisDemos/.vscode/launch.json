@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<redisapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.redisapi.DemoApplication",
+            "projectName": "redisapi",
+            "args": "",
+            "vmArgs": "-Djava.net.preferIPv4Stack=true"
+        }
+    ]
+}

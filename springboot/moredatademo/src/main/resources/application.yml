@@ -1,0 +1,19 @@
+
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource    
+    #主数据源配置
+    mysqlone:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/work?useUnicode=true&characterEncoding=utf-8
+      username: root
+      password: 123456
+    oracleone:
+      driver-class-name: oracle.jdbc.driver.OracleDriver
+      url: jdbc:oracle:thin:@localhost:49161:xe
+      username: system
+      password: oracle
+
+logging:
+  level:
+    com.example.moredatademo.mysqlmapper: debug

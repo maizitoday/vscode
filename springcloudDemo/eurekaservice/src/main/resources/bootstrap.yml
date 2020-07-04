@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+      name: application-eureka  #指定github上面的确定的资源文件名称，没有后缀yml
+      profile: dev  #本次访问的资源项目
+      label: master  #当前分支 
+      uri: http://localhost:8080  #config 服务， 指定从哪一个服务来获取github上面的资源
+      

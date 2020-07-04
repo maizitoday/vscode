@@ -1,0 +1,3 @@
+ 2019/09/25 12:49:01 [error] 6#6: send() failed (111: Connection refused)
+2019/09/25 12:49:04 [error] 6#6: send() failed (111: Connection refused)
+2019/09/25 12:50:18 [error] 6#6: send() failed (111: Connection refused)

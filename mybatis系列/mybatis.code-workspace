@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "mybatisconfig",
+			"path": "mybatisconfig"
+		},
+		{
+			"name": "mybatisplus",
+			"path": "mybatisplus"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "jdk11mvn"
+		},
+		{
+			"path": "Java11"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}

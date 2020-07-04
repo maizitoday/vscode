@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"name": "serviceconfig",
+			"path": "/vscode/springcloudDemo/serviceconfig"
+		},
+		{
+			"name": "clientconfig",
+			"path": "/vscode/springcloudDemo/clientconfig"
+		},
+		{
+			"name": "eurekaservice",
+			"path": "/vscode/springcloudDemo/eurekaservice"
+		},
+		{
+			"name": "springRemoteConfig",
+			"path": "/vscode/springRemoteConfig"
+		},
+		{
+			"path": "eureka5001"
+		},
+		{
+			"path": "eureka5002"
+		},
+		{
+			"path": "eureka5003"
+		},
+		{
+			"path": "myhystrix"
+		},
+		{
+			"path": "MyCloud"
+		},
+		{
+			"path": "myhystrixdashboard"
+		},
+		{
+			"path": "demo"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}

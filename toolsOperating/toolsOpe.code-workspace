@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "test"
+        },
+        {
+            "name": "springdemo",
+            "path": "springdemo"
+        },
+        {
+            "path": "vscodedemo"
+        }
+    ],
+    "settings": {
+        "maven.view": "flat"
+    }
+}

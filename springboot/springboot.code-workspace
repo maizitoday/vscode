@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"name": "logdemo",
+			"path": "logdemo"
+		},
+		{
+			"name": "webdemo",
+			"path": "webdemo"
+		},
+		{
+			"name": "databasedemo",
+			"path": "databasedemo"
+		},
+		{
+			"name": "demo-jwt-master",
+			"path": "demo-jwt-master"
+		},
+		{
+			"name": "securitydemo",
+			"path": "securitydemo"
+		},
+		{
+			"name": "annotationdemo",
+			"path": "annotationdemo"
+		},
+		{
+			"name": "moredatademo",
+			"path": "moredatademo"
+		},
+		{
+			"name": "springboot系列学习 @ 9bf8eae",
+			"uri": "gitlens://9bf8eae/vscode/springboot系列学习?{\"path\":\"/vscode/springboot系列学习\",\"ref\":\"9bf8eaeefcf1dfda00cc3f54f633d0da77dfccd6\",\"repoPath\":\"/vscode/springboot系列学习\"}"
+		},
+		{
+			"name": "smart_doc_demo",
+			"path": "smart_doc_demo"
+		}
+	],
+	"settings": {
+		"java.dependency.syncWithFolderExplorer": false,
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.dependency.packagePresentation": "hierarchical"
+	}
+}

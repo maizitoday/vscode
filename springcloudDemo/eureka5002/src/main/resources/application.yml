@@ -1,0 +1,14 @@
+
+server:
+  port: 5002
+eureka:
+  instance:
+    hostname: eureka5002.com #eureka服务端的实例名称, 我这边做了host映射
+  client: #声明自己是服务端
+    register-with-eureka: false  #false表示不向注册中心注册自己。
+    fetch-registry: false
+    service-url:
+     defaultZone: http://eureka5001.com:5001/eureka/,http://eureka5003.com:5003/eureka/
+
+
+

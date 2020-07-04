@@ -1,0 +1,26 @@
+version: '3'
+services:
+  2017mg:
+    image: mongo4.2.0
+    container_name: "2017mg"
+    ports:
+      - "27017:27017"
+    volumes:
+      - $PWD/mongodb/2017db:/data/db
+    command: mongod --dbpath /data/db --replSet mongoreplset
+  2018mg:
+    image: mongo4.2.0
+    container_name: "2018mg"
+    ports:
+      - "27018:27017"
+    volumes:
+      - $PWD/mongodb/2018db:/data/db
+    command: mongod --dbpath /data/db --replSet mongoreplset
+  2019mg:
+    image: mongo4.2.0
+    container_name: "2019mg"
+    ports:
+      - "27019:27017"
+    volumes:
+      - $PWD/mongodb/2019db:/data/db
+    command: mongod --dbpath /data/db --replSet mongoreplset
